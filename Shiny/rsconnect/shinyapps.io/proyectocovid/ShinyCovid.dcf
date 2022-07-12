@@ -1,0 +1,13 @@
+name: ShinyCovid
+title: ShinyCovid
+username:
+account: proyectocovid
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5121672
+bundleId: 5251663
+url: https://proyectocovid.shinyapps.io/ShinyCovid/
+when: 1636937005.55563
+lastSyncTime: 1636937005.55563
+asMultiple: FALSE
+asStatic: FALSE
